@@ -25,6 +25,7 @@ document.getElementById('w-change-btn').addEventListener('click', (e) => {
 
     // Close modal
     $('#locModal').modal('hide');
+    document.getElementById('city').value = '';
 });
 
 function getWeather() {
