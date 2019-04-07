@@ -1,2 +1,2 @@
 # weather-app
-Weather app powered by JS with implemented Local Storage
+Weather JS app with implemented Local Storage
